@@ -3,7 +3,7 @@ Description
 A simple Python-based web crawler that navigates websites, extracts links, and saves page content starting from a specified URL. This project is actively being developed, with exciting updates and new features on the way!
 Creator: D-Jay  
 
-GitHub: [Your GitHub Profile Link] 
+GitHub: [https://github.com/DJDlauzy] 
 ---------------------------------------------------------------------
 Installation
 
